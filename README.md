@@ -1,2 +1,2 @@
 # HUT
-Hydra UI Toolkit
+HYDRA UI Toolkit
